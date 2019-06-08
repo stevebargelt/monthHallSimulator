@@ -1,0 +1,6 @@
+Y:\code\montyHallSimulator\montyHallSimulator\bin\Debug\montyHallSimulator.exe.config
+Y:\code\montyHallSimulator\montyHallSimulator\bin\Debug\montyHallSimulator.exe
+Y:\code\montyHallSimulator\montyHallSimulator\bin\Debug\montyHallSimulator.pdb
+Y:\code\montyHallSimulator\montyHallSimulator\obj\Debug\montyHallSimulator.csprojResolveAssemblyReference.cache
+Y:\code\montyHallSimulator\montyHallSimulator\obj\Debug\montyHallSimulator.exe
+Y:\code\montyHallSimulator\montyHallSimulator\obj\Debug\montyHallSimulator.pdb
